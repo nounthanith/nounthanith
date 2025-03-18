@@ -32,12 +32,14 @@
 
 ## 💰 You can help me by Donating
 
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</br><b>💥MY ACLEDA:</b> 093 939 290
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</br>
 
   <div>
-      <img width="150" src="images/myQR.jpg"/>
-  </div>
-
-  <div>
-      <img width="250" src="images/anime.gif">
+    <div style="display:block;">
+      <div>
+        <img width="250" src="images/anime.gif">
+      </div>
+      <img width="150" src="images/myQR.jpg"/></br>
+       <b>💥MY ACLEDA:</b> 093 939 290
+    </div> 
   </div>
